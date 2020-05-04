@@ -1,0 +1,100 @@
+d1e21ee HEAD@{0}: reset: moving to d1e21ee
+407f1da HEAD@{1}: reset: moving to HEAD@{6}
+89c6222 HEAD@{2}: reset: moving to HEAD^
+4c2b385 HEAD@{3}: reset: moving to HEAD^1
+d1e21ee HEAD@{4}: commit (amend): updating for tag 1.2
+a76ec63 HEAD@{5}: commit: updating for tag 1.1
+4c2b385 HEAD@{6}: commit: Tweaking file for tagging example
+89c6222 HEAD@{7}: merge newchanges: Fast-forward
+407f1da HEAD@{8}: checkout: moving from newchanges to master
+89c6222 HEAD@{9}: commit: changes after git-stash-branch command
+407f1da HEAD@{10}: reset: moving to HEAD
+407f1da HEAD@{11}: checkout: moving from master to newchanges
+407f1da HEAD@{12}: reset: moving to HEAD
+407f1da HEAD@{13}: reset: moving to HEAD
+407f1da HEAD@{14}: reset: moving to HEAD
+407f1da HEAD@{15}: reset: moving to HEAD
+407f1da HEAD@{16}: reset: moving to HEAD
+407f1da HEAD@{17}: commit: updating humans.txt file after stash pop
+dd74008 HEAD@{18}: commit: quick fix after stash on Readme file
+a5e191e HEAD@{19}: reset: moving to HEAD
+a5e191e HEAD@{20}: reset: moving to HEAD
+a5e191e HEAD@{21}: commit: Done with simple.html updates
+9a19a2b HEAD@{22}: commit: quick fix in production to improve copyright notice
+bb48590 HEAD@{23}: reset: moving to HEAD
+bb48590 HEAD@{24}: rebase (finish): returning to refs/heads/master
+bb48590 HEAD@{25}: rebase (pick): local: updating simple.html copyright notice
+9d7f581 HEAD@{26}: rebase (start): checkout 9d7f5815225d8e007425f1420ab3af8840450898
+eebd8ab HEAD@{27}: commit: local: updating simple.html copyright notice
+c0c935b HEAD@{28}: merge bigtrouble: Fast-forward
+f279bc3 HEAD@{29}: checkout: moving from bigtrouble to master
+c0c935b HEAD@{30}: commit: Adding changes after rebasing conflict
+f279bc3 HEAD@{31}: rebase (finish): returning to refs/heads/bigtrouble
+f279bc3 HEAD@{32}: rebase (start): checkout master
+e3f6278 HEAD@{33}: rebase (abort): updating HEAD
+f279bc3 HEAD@{34}: rebase (start): checkout master
+e3f6278 HEAD@{35}: checkout: moving from master to bigtrouble
+f279bc3 HEAD@{36}: commit: mb conflicting changes brewing
+b53e954 HEAD@{37}: checkout: moving from bigtrouble to master
+e3f6278 HEAD@{38}: commit: fb adding 2 some trouble to simple.html
+ea6ad24 HEAD@{39}: checkout: moving from master to bigtrouble
+b53e954 HEAD@{40}: commit: fb adding some trouble to simple.html
+ea6ad24 HEAD@{41}: checkout: moving from bigtrouble to master
+ea6ad24 HEAD@{42}: checkout: moving from master to bigtrouble
+ea6ad24 HEAD@{43}: commit: mb before rebase conflicts
+3d566f2 HEAD@{44}: merge myfeature: Fast-forward
+1a209a2 HEAD@{45}: checkout: moving from myfeature to master
+3d566f2 HEAD@{46}: commit: Adding another change after rebase
+ddc9114 HEAD@{47}: rebase (finish): returning to refs/heads/myfeature
+ddc9114 HEAD@{48}: rebase (pick): saying thanks to all my students
+1a209a2 HEAD@{49}: rebase (start): checkout master
+954baa7 HEAD@{50}: checkout: moving from master to myfeature
+1a209a2 HEAD@{51}: commit: Adding one line to README for rebase exemple
+8f62796 HEAD@{52}: checkout: moving from myfeature to master
+954baa7 HEAD@{53}: commit: saying thanks to all my students
+8f62796 HEAD@{54}: checkout: moving from master to myfeature
+8f62796 HEAD@{55}: commit: updating ignore file to exclude merge temp files
+1a746f1 HEAD@{56}: commit (merge): Done resolving merge conflicts
+2383fe9 HEAD@{57}: commit: Adding conflicting changes (on purpose) for Git example
+fb6c98e HEAD@{58}: checkout: moving from realwork to master
+da8f92a HEAD@{59}: commit: Making changes to simple.html
+fb6c98e HEAD@{60}: checkout: moving from master to realwork
+fb6c98e HEAD@{61}: merge simple-changes: Merge made by the 'recursive' strategy.
+aec0d26 HEAD@{62}: commit: Adding instructions on how to contribute
+a43388d HEAD@{63}: checkout: moving from simple-changes to master
+d3015de HEAD@{64}: commit: Adding team member to jumans.txt
+a43388d HEAD@{65}: checkout: moving from master to simple-changes
+a43388d HEAD@{66}: merge add-copyright: Merge made by the 'recursive' strategy.
+acb72dd HEAD@{67}: checkout: moving from add-copyright to master
+304f8cf HEAD@{68}: commit: Adding copyright notice to README
+9b1eae0 HEAD@{69}: commit: Adding copyright notice
+acb72dd HEAD@{70}: checkout: moving from master to add-copyright
+acb72dd HEAD@{71}: merge title-change: Fast-forward
+64cabd6 HEAD@{72}: checkout: moving from title-change to master
+acb72dd HEAD@{73}: commit: Changing title of HTML file
+64cabd6 HEAD@{74}: checkout: moving from master to title-change
+64cabd6 HEAD@{75}: checkout: moving from mynewbranch to master
+64cabd6 HEAD@{76}: checkout: moving from master to mynewbranch
+64cabd6 HEAD@{77}: commit: Updating repo with changes from comparing section
+05675f5 HEAD@{78}: commit: Adding introduction text
+a8361a6 HEAD@{79}: commit: Adding description
+53b193b HEAD@{80}: commit: Adding new section deployment
+a94f707 HEAD@{81}: commit: Add space after ## on How to contribute section
+f8de692 HEAD@{82}: commit: Adding more text to README file
+e55bcf9 HEAD@{83}: commit: excluding log file directory
+eef51fa HEAD@{84}: commit: Adding git ignore file to exclude unwanted files
+9906465 HEAD@{85}: commit: add hipster.txt
+0d3f215 HEAD@{86}: commit: deleting level 1 and all children
+e48a944 HEAD@{87}: commit: deleted hipster.txt file
+92314cb HEAD@{88}: commit: deleting newfile
+91316c8 HEAD@{89}: commit: renaming level1 file
+5f858f1 HEAD@{90}: commit: moving level 2 file back to level 2 directory
+ede4cf6 HEAD@{91}: commit: Moving file from level2 to level3
+963fdf1 HEAD@{92}: commit: renaming level 2 file
+813d8dc HEAD@{93}: commit: renaming level3 file
+dfe805c HEAD@{94}: commit: Adding several files recursevely
+48821ef HEAD@{95}: commit: More ipsum for hipsters
+ca52899 HEAD@{96}: commit: Adding new file
+86db747 HEAD@{97}: commit: Adding more ipsum text
+83548d8 HEAD@{98}: commit: My first commit!
+4beb7f0 HEAD@{99}: clone: from https://github.com/iuliansingeap/starter-web.git
